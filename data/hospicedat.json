@@ -1,0 +1,45 @@
+[
+    {
+    "SurvYear":2008,
+    "NumOfProviders": 9,
+    "TotAdmissions": 10071,
+    "StateTotAdmissions": 40096,
+    "MedicareReim": 103237759,
+    "MedicaidReim": 42438083,
+    "BlueCrossReim": 2703222,
+    "OtherInsReim": 5712969,
+    "TotalReim": 154588825,
+    "StateTotReim": 486204333,
+    "TotExpenditures": 157545343,
+    "StateAvgExpenditures": 496792991
+
+  },
+  {
+    "SurvYear":2007,
+    "NumOfProviders": 10,
+    "TotAdmissions": 9404,
+    "StateTotAdmissions": 38661,
+    "MedicareReim": 98616339,
+    "MedicaidReim": 42705733,
+    "BlueCrossReim": 2424436,
+    "OtherInsReim": 8219498,
+    "TotalReim": 152650882,
+    "StateTotReim": 463305813,
+    "TotExpenditures": 155681253,
+    "StateAvgExpenditures": 478584302
+  },
+  {
+    "SurvYear":2005,
+    "NumOfProviders": 11,
+    "TotAdmissions": 9112,
+    "StateTotAdmissions": 36498,
+    "MedicareReim": 83522102,
+    "MedicaidReim": 28027334,
+    "BlueCrossReim": 2962836,
+    "OtherInsReim": 5563848,
+    "TotalReim": 120399511,
+    "StateTotReim": 380158964,
+    "TotExpenditures": 116851150,
+    "StateAvgExpenditures": 389424446
+  }
+]
